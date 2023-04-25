@@ -14,8 +14,8 @@ parent.geometry("500x400")
 parent.title("Scraping agent for ecommerce websites")
 parent.configure(background="#404040")
 
-icon=PhotoImage(file='C:\Python37\Scripts\project\scraper.png')
-parent.iconphoto(False, icon)
+#icon=PhotoImage(file='C:\Python37\Scripts\project\scraper.png')
+#parent.iconphoto(False, icon)
 
 
 
